@@ -1,0 +1,19 @@
+\\vmware-host\Shared Folders\Desktop\Source.1.1\Source\CustomEventApp\bin\Debug\CustomEventApp.exe.config
+\\vmware-host\Shared Folders\Desktop\Source.1.1\Source\CustomEventApp\obj\Debug\CustomEventApp.exe
+\\vmware-host\Shared Folders\Desktop\Source.1.1\Source\CustomEventApp\obj\Debug\CustomEventApp.pdb
+\\vmware-host\Shared Folders\Desktop\MccormickRob_CE05\bin\Debug\CustomEventApp.exe.config
+\\vmware-host\Shared Folders\Desktop\MccormickRob_CE05\obj\Debug\CustomEventApp.exe
+\\vmware-host\Shared Folders\Desktop\MccormickRob_CE05\obj\Debug\CustomEventApp.pdb
+G:\Projects\WinformTutorial\3,4,5\3,4,5\MccormickRob_CE05\bin\Debug\CustomEventApp.exe.config
+G:\Projects\WinformTutorial\3,4,5\3,4,5\MccormickRob_CE05\obj\Debug\CustomEventApp.exe
+G:\Projects\WinformTutorial\3,4,5\3,4,5\MccormickRob_CE05\obj\Debug\CustomEventApp.pdb
+G:\Projects\WinformTutorial\3,4,5\3,4,5\MccormickRob_CE05\bin\Debug\CustomEventApp.exe
+G:\Projects\WinformTutorial\3,4,5\3,4,5\MccormickRob_CE05\bin\Debug\CustomEventApp.pdb
+G:\Projects\WinformTutorial\3,4,5\3,4,5\MccormickRob_CE05\obj\Debug\CustomEventApp.csprojResolveAssemblyReference.cache
+G:\Projects\WinformTutorial\3,4,5\3,4,5\MccormickRob_CE05\obj\Debug\CustomEventApp.InputWindow.resources
+G:\Projects\WinformTutorial\3,4,5\3,4,5\MccormickRob_CE05\obj\Debug\CustomEventApp.MainWindow.resources
+G:\Projects\WinformTutorial\3,4,5\3,4,5\MccormickRob_CE05\obj\Debug\CustomEventApp.Properties.Resources.resources
+G:\Projects\WinformTutorial\3,4,5\3,4,5\MccormickRob_CE05\obj\Debug\CustomEventApp.csproj.GenerateResource.Cache
+\\vmware-host\Shared Folders\Desktop\BIGAPP\3,4,5_fixed\3,4,5\3,4,5\MccormickRob_CE05\bin\Debug\CustomEventApp.exe.config
+\\vmware-host\Shared Folders\Desktop\BIGAPP\3,4,5_fixed\3,4,5\3,4,5\MccormickRob_CE05\obj\Debug\CustomEventApp.exe
+\\vmware-host\Shared Folders\Desktop\BIGAPP\3,4,5_fixed\3,4,5\3,4,5\MccormickRob_CE05\obj\Debug\CustomEventApp.pdb

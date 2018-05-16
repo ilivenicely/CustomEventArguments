@@ -1,0 +1,20 @@
+\\vmware-host\Shared Folders\Desktop\BIGAPP\3,4,5_fixed\3,4,5\3,4,5\MccormickRob_CE05\bin\Debug\CustomEventApp.exe.config
+\\vmware-host\Shared Folders\Desktop\BIGAPP\3,4,5_fixed\3,4,5\3,4,5\MccormickRob_CE05\obj\Debug\CustomEventApp.exe
+\\vmware-host\Shared Folders\Desktop\BIGAPP\3,4,5_fixed\3,4,5\3,4,5\MccormickRob_CE05\obj\Debug\CustomEventApp.pdb
+\\vmware-host\Shared Folders\Desktop\BIGAPP\3,4,5_fixed\3,4,5\3,4,5\MccormickRob_CE05\bin\Debug\CustomEventApp.exe
+\\vmware-host\Shared Folders\Desktop\BIGAPP\3,4,5_fixed\3,4,5\3,4,5\MccormickRob_CE05\bin\Debug\CustomEventApp.pdb
+\\vmware-host\Shared Folders\Desktop\BIGAPP\3,4,5_fixed\3,4,5\3,4,5\MccormickRob_CE05\obj\Debug\RobertMcCormick_CE05.csprojResolveAssemblyReference.cache
+\\vmware-host\Shared Folders\Desktop\BIGAPP\3,4,5_fixed\3,4,5\3,4,5\MccormickRob_CE05\obj\Debug\CustomEventApp.InputWindow.resources
+\\vmware-host\Shared Folders\Desktop\BIGAPP\3,4,5_fixed\3,4,5\3,4,5\MccormickRob_CE05\obj\Debug\CustomEventApp.MainWindow.resources
+\\vmware-host\Shared Folders\Desktop\BIGAPP\3,4,5_fixed\3,4,5\3,4,5\MccormickRob_CE05\obj\Debug\CustomEventApp.Properties.Resources.resources
+\\vmware-host\Shared Folders\Desktop\BIGAPP\3,4,5_fixed\3,4,5\3,4,5\MccormickRob_CE05\obj\Debug\RobertMcCormick_CE05.csproj.GenerateResource.Cache
+\\vmware-host\Shared Folders\Desktop\final submission\RobertMccormick_CE05\bin\Debug\CustomEventApp.exe.config
+\\vmware-host\Shared Folders\Desktop\final submission\RobertMccormick_CE05\obj\Debug\CustomEventApp.exe
+\\vmware-host\Shared Folders\Desktop\final submission\RobertMccormick_CE05\obj\Debug\CustomEventApp.pdb
+\\vmware-host\Shared Folders\Desktop\final submission\RobertMccormick_CE05\bin\Debug\CustomEventApp.exe
+\\vmware-host\Shared Folders\Desktop\final submission\RobertMccormick_CE05\bin\Debug\CustomEventApp.pdb
+\\vmware-host\Shared Folders\Desktop\final submission\RobertMccormick_CE05\obj\Debug\RobertMcCormick_CE05.csprojResolveAssemblyReference.cache
+\\vmware-host\Shared Folders\Desktop\final submission\RobertMccormick_CE05\obj\Debug\CustomEventApp.InputWindow.resources
+\\vmware-host\Shared Folders\Desktop\final submission\RobertMccormick_CE05\obj\Debug\CustomEventApp.MainWindow.resources
+\\vmware-host\Shared Folders\Desktop\final submission\RobertMccormick_CE05\obj\Debug\CustomEventApp.Properties.Resources.resources
+\\vmware-host\Shared Folders\Desktop\final submission\RobertMccormick_CE05\obj\Debug\RobertMcCormick_CE05.csproj.GenerateResource.Cache
